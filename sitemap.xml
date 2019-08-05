@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/4-years-of-squad-health-check/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/agile/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/agile/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/spotify/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/squad-health-check/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/itemized/item1/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/itemized/item2/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/itemized/item3/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/itemized/item4/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/itemized/</loc>
+    <lastmod>2017-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+</urlset>
