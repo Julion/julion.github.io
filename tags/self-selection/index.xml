@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Self-selection on On Tech Leadership</title>
+    <link>/tags/self-selection/</link>
+    <description>Recent content in Self-selection on On Tech Leadership</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/self-selection/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous Reteaming and Self-Selection</title>
+      <link>/blog/continuous-reteaming-and-self-selection/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/continuous-reteaming-and-self-selection/</guid>
+      <description>In the book Drive, Dan Pink proposes that the 3 sources of intrinsic motivation are autonomy, mastery and purpose. In my experience, our system of work is rarely aligned with that. More often than not:
+ You are assigned to a project by your manager, You follow a prescribed methodology like Scrum or Kanban (or have none at all and no forum to reflect), You have a long list of requirements that sound quite disconnected from any tangible business impact (possibly written by a PO/PM, sometimes they may even let you talk to the customer ;-)).</description>
+    </item>
+    
+  </channel>
+</rss>

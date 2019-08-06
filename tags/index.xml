@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tech leadership in a bottle</title>
+    <title>Tags on On Tech Leadership</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Tech leadership in a bottle</description>
+    <description>Recent content in Tags on On Tech Leadership</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,14 +14,50 @@
     <item>
       <title>Agile</title>
       <link>/tags/agile/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>spotify</title>
+      <title>Business agility</title>
+      <link>/tags/business-agility/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/business-agility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-organisation</title>
+      <link>/tags/self-organisation/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/self-organisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-selection</title>
+      <link>/tags/self-selection/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/self-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback</title>
+      <link>/tags/feedback/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spotify</title>
       <link>/tags/spotify/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -30,7 +66,7 @@
     </item>
     
     <item>
-      <title>squad health check</title>
+      <title>Squad health check</title>
       <link>/tags/squad-health-check/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
