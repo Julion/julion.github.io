@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on On Tech Leadership</title>
+    <title>Categories on From The Front</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on On Tech Leadership</description>
+    <description>Recent content in Categories on From The Front</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -36,15 +36,6 @@
       
       <guid>/categories/feedback/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>     <title>Fancy App 4</title>
-      <link>/itemized/item4/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/itemized/item4/</guid>
-      <description> App 4 </description>
     </item>
     
   </channel>
