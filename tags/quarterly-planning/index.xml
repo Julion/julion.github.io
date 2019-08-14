@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>From The Front</title>
-    <link>/</link>
-    <description>Recent content on From The Front</description>
+    <title>Quarterly planning on From The Front</title>
+    <link>/tags/quarterly-planning/</link>
+    <description>Recent content in Quarterly planning on From The Front</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/quarterly-planning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@ Planning day format Our planning day is essential to achieve our goals: self-sel
       <guid>/blog/continuous-reteaming-and-self-selection/</guid>
       <description>In the book Drive, Dan Pink proposes that the 3 sources of intrinsic motivation are autonomy, mastery and purpose. In my experience, our system of work is rarely aligned with that. More often than not:
  You are assigned to a project by your manager, You follow a prescribed methodology like Scrum or Kanban (or have none at all and no forum to reflect), You have a long list of requirements that sound quite disconnected from any tangible business impact (possibly written by a PO/PM, sometimes they may even let you talk to the customer ;-)).</description>
-    </item>
-    
-    <item>
-      <title>4 years of squad health check</title>
-      <link>/blog/4-years-of-squad-health-check/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/4-years-of-squad-health-check/</guid>
-      <description>Earlier in January, we ran our squad health check for Q4 2018. We invited an observer that was keen to discover the activity, and see if it would be beneficial for his own team. We had a quick chat at the end of the hour about my experience as a manager, and it suddenly hit me that I had been running squad health checks for the better part of the last 4 years&amp;hellip; Time flies!</description>
     </item>
     
   </channel>
