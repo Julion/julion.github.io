@@ -1,0 +1,7 @@
+figcaption {
+    text-align: center;
+  }
+figure img {
+    display: block;
+    margin: 0.7rem auto;
+}
