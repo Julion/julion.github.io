@@ -6,7 +6,7 @@
     <description>Recent content in Tags on From The Front</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Agile</title>
       <link>/tags/agile/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/agile/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Business agility</title>
       <link>/tags/business-agility/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/business-agility/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Continuous Reteaming</title>
       <link>/tags/continuous-reteaming/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/continuous-reteaming/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Quarterly planning</title>
       <link>/tags/quarterly-planning/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/quarterly-planning/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Self-organisation</title>
       <link>/tags/self-organisation/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/self-organisation/</guid>
       <description></description>
@@ -59,9 +59,18 @@
     <item>
       <title>Self-selection</title>
       <link>/tags/self-selection/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/self-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>enabling constraints</title>
+      <link>/tags/enabling-constraints/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/enabling-constraints/</guid>
       <description></description>
     </item>
     
